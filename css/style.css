@@ -17,3 +17,45 @@ body {
     margin: 0;
 }
 
+.header-content {
+    display: flex;
+    align-items: flex-start;
+}
+
+.studio-info {
+    margin-left: 35px;
+    flex-grow: 1;
+}
+
+.menu {
+   margin-left: auto;
+}
+
+.Menu {
+    background-color: black;
+    color: white;
+    padding-radius: 20px;
+    padding: 5px 15px;
+    padding-padding: 3px 12px;
+    font-size: 10px;
+    border-radius: 20px;
+}
+
+.hero-image {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.text-line {
+    font-size: 12px;
+    color: #000000;
+    margin-top: 10px;
+}
+
+.text-label {
+    font-size: 70px;
+    color: #000000;
+    margin-top: 20px;
+}
