@@ -13,8 +13,9 @@ body {
 .logo {
     font-size: 40px;
     line-height: 0.9;
-    font-weight: bold;
+    font-weight: semi-bold;
     margin: 0;
+    font-family: Helvetica, Arial, sans-serif; 
 }
 
 .header-content {
@@ -25,7 +26,7 @@ body {
 .studio-info {
     margin-left: 35px;
     flex-grow: 1;
-    font-size: 12px;
+    font-size: 8px;
     font-weight: bold;
     line-height: 1;
 }
@@ -59,9 +60,11 @@ body {
 }
 
 .text-label {
-    font-size: 70px;
+    font-size: 50px;
     color: #000000;
     margin-top: 20px;
+    line-height: 0.9;
+    font-weight: normal;
 }
 
 .content-divider {
