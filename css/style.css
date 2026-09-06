@@ -32,11 +32,10 @@ body {
 }
 
 .Menu {
+    margin-left: auto;
     background-color: black;
     color: white;
-    padding-radius: 20px;
     padding: 5px 15px;
-    padding-padding: 3px 12px;
     font-size: 10px;
     border-radius: 20px;
 }
